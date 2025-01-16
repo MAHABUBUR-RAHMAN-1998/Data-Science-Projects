@@ -9,7 +9,8 @@
 - **Trained the Model**
 - **Finally Checked The Models Accuracy score, Confusion Matrix & Classification Report**
 
-  <a href="https://github.com/MAHABUBUR-RAHMAN-1998/Data-Science-Projects/tree/main/knn%20projects"> Project No 2: Logistic Regression Project </a>
+
+<a href="https://github.com/MAHABUBUR-RAHMAN-1998/Data-Science-Projects/tree/main/Logistic%20Regression%20Projects"> Project No 2: Logistic Regression Project </a>
 
 - **At First Data imported From Excel**
 - **Observed the Data**
