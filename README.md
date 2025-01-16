@@ -1,5 +1,5 @@
 # Data-Science-Projects
-<h1 align="Left">Project No 1: [Knn Project](https://github.com/MAHABUBUR-RAHMAN-1998/Data-Science-Projects/tree/main/knn%20projects) </h1>
+<a href="https://github.com/MAHABUBUR-RAHMAN-1998/Data-Analysis-Projects/blob/main/README.md"> Project No 1: Knn Project </a>
 
 - **At First Data imported From Excel**
 - **Observed the Data**
